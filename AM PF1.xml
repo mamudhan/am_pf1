@@ -16,21 +16,21 @@
 <meta expr:content='data:blog.title' name='twitter:title'/>
 <meta expr:content='data:blog.canonicalUrl' name='twitter:url'/>
 <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
-<meta content='https://i.imgur.com/FvP92uC.png' name='twitter:image'/>
-<meta content='582762067' property='fb:app_id'/>
-<meta content='582762067' property='fb:admins'/>
-<meta content='582762067' property='og:site_name'/>
+<meta content='#' name='twitter:image'/>
+<meta content='fb_id' property='fb:app_id'/>
+<meta content='fb_id' property='fb:admins'/>
+<meta content='fb_id' property='og:site_name'/>
 <meta content='website' property='og:type'/>
 <meta expr:content='data:blog.canonicalUrl' property='og:url'/>
 <meta expr:content='data:blog.title' property='og:title'/>
 <meta expr:content='data:blog.metaDescription' property='og:description'/>
-<meta content='https://i.imgur.com/FvP92uC.png' property='og:image'/>
+<meta content='#' property='og:image'/>
 <meta expr:content='data:blog.title' property='og:image:alt'/>
 <meta content='website' property='og:type'/>
 <meta expr:content='data:blog.canonicalUrl' itemprop='og:url'/>
 <meta expr:content='data:blog.title' itemprop='og:headline'/>
 <meta expr:content='data:blog.metaDescription' itemprop='og:description'/>
-<meta content='https://i.imgur.com/FvP92uC.png' property='og:image'/>
+<meta content='#' property='og:image'/>
 </b:if>
 <!-- DNS prefetch --> 
 <link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
@@ -73,8 +73,8 @@
 <meta content='#555' name='msapplication-navbutton-color'/>
 <meta content='#555' name='apple-mobile-web-app-status-bar-style'/>
 <script src='//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js' type='text/javascript'/>
-<meta content='582762067' property='fb:admins'/>
-<meta content='582762067' property='fb:app_id'/>
+<meta content='fb_id' property='fb:admins'/>
+<meta content='fb_id' property='fb:app_id'/>
 <script>
 var url_index = window.location.href.indexOf(&#39;url=&#39;);if (url_index != -1){url_go = window.location.href;url_go = url_go.substring(url_index + 4);setTimeout(function () {window.location.href = url_go;}, 0);}
 </script>
